@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/mahmoud-samy-cciers-wr-jncip-sp-7b3b7742" target="_blank"><img src="https://img.shields.io/badge/-MAHMOUD%20SAMY-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/mahmoud-samy-cciers-wr-jncip-sp-7b3b7742](https://www.linkedin.com/in/mahmoud-samy-697924259)" target="_blank"><img src="https://img.shields.io/badge/-MAHMOUD%20SAMY-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
